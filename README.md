@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Guilherme do Nascimento e Silva. Sou desenvolvedor Full-Stack na Adsrock e estudante de Análise e Desenvolvimento de Sistemas na Fatec Franca.
+  Olá, meu nome é Guilherme do Nascimento e Silva. Sou desenvolvedor Full-Stack na Avanade e estudante de Análise e Desenvolvimento de Sistemas na Fatec Franca.
 </p>
 
 <p align="left">
